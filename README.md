@@ -80,7 +80,7 @@ Il progetto include diversi grafici:
 - Residual plot  
 - Analisi delle correlazioni  
 
-### Esempio: Residual Plot
+### Esempio: Distribution Plot
 
 ![Distribution Plot](results/figures/kde_mlr.png)
 
