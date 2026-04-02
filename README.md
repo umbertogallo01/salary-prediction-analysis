@@ -82,7 +82,7 @@ Il progetto include diversi grafici:
 
 ### Esempio: Residual Plot
 
-![Residual Plot](results/figures/residuals_mlr.png)
+![Distribution Plot](results/figures/kde_mlr.png)
 
 ---
 
@@ -105,14 +105,6 @@ git clone https://github.com/umbertogallo01/salary-prediction-analysis.git
 notebooks/salary_prediction_analysis.ipynb
 
 3. Eseguire tutte le celle
-
----
-
-## 📌 Possibili miglioramenti
-
-- Utilizzo di modelli più avanzati (Random Forest, Gradient Boosting)  
-- Ottimizzazione degli iperparametri  
-- Miglioramento del feature engineering  
 
 ---
 
