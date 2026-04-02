@@ -14,7 +14,8 @@ Il workflow seguito è il seguente:
 - Analisi esplorativa (EDA)  
 - Addestramento dei modelli  
 - Valutazione delle performance  
-- Visualizzazione dei risultati  
+- Visualizzazione dei risultati
+- Confronto con altri modelli
 
 ---
 
@@ -43,8 +44,6 @@ Durante l’analisi esplorativa sono stati studiati:
 - Relazioni tra le variabili  
 - Presenza di asimmetrie (skewness)  
 
-Poiché la variabile target (salario) presenta una distribuzione asimmetrica, è stata applicata una **trasformazione logaritmica** per migliorare la stabilità del modello.
-
 ---
 
 ## 🤖 Modelli utilizzati
@@ -54,20 +53,19 @@ Sono stati implementati i seguenti modelli:
 - Regressione Lineare Multipla  
 - Ridge Regression  
 
-I modelli sono stati addestrati sulla versione logaritmica della variabile target.
-
 ---
 
 ## 📈 Valutazione dei modelli
 
 Le performance sono state valutate tramite:
 
-- Mean Squared Error (MSE)  
+- Root Mean Squared Error (RMSE)
+- Mean Absolute Error (MAE)  
 - Coefficiente di determinazione (R²)  
 
 Le metriche sono state calcolate:
 
-- nello spazio logaritmico (coerente con il training)  
+- nello spazio logaritmico nell'analisi 2 (coerente con il training)  
 - nella scala originale (per interpretabilità)  
 
 ---
