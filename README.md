@@ -1,4 +1,4 @@
-# 💼 Salary Prediction con Modelli di Regressione
+# Salary Prediction con Modelli di Regressione
 
 Questo progetto ha l’obiettivo di prevedere il salario utilizzando modelli di regressione, con particolare attenzione all’analisi dei dati, alla valutazione dei modelli e all’interpretazione dei risultati.
 
