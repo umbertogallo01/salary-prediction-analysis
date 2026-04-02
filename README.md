@@ -4,7 +4,7 @@ Questo progetto ha l’obiettivo di prevedere il salario utilizzando modelli di 
 
 ---
 
-## 📊 Panoramica del progetto
+## Panoramica del progetto
 
 L’obiettivo è costruire e valutare modelli in grado di predire il salario a partire da diverse variabili esplicative.
 
@@ -36,7 +36,7 @@ salary-prediction-analysis/
 
 ---
 
-## 🔍 Analisi dei dati
+## Analisi dei dati
 
 Durante l’analisi esplorativa sono stati studiati:
 
@@ -46,7 +46,7 @@ Durante l’analisi esplorativa sono stati studiati:
 
 ---
 
-## 🤖 Modelli utilizzati
+## Modelli utilizzati
 
 Sono stati implementati i seguenti modelli:
 
@@ -55,7 +55,7 @@ Sono stati implementati i seguenti modelli:
 
 ---
 
-## 📈 Valutazione dei modelli
+## Valutazione dei modelli
 
 Le performance sono state valutate tramite:
 
@@ -70,7 +70,7 @@ Le metriche sono state calcolate:
 
 ---
 
-## 📊 Visualizzazioni
+## Visualizzazioni
 
 Il progetto include diversi grafici:
 
@@ -84,7 +84,7 @@ Il progetto include diversi grafici:
 
 ---
 
-## 🧠 Risultati principali
+## Risultati principali
 
 - La trasformazione logaritmica migliora la stabilità del modello  
 - La Ridge Regression aiuta a ridurre l’overfitting  
@@ -92,7 +92,7 @@ Il progetto include diversi grafici:
 
 ---
 
-## 🚀 Come eseguire il progetto
+## Come eseguire il progetto
 
 1. Clonare la repository:
 
@@ -106,6 +106,6 @@ notebooks/salary_prediction_analysis.ipynb
 
 ---
 
-## 👨‍💻 Autore
+## Autore
 
 Progetto sviluppato nell’ambito di un percorso di formazione in Data Science e Machine Learning.
