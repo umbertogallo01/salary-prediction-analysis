@@ -103,9 +103,3 @@ git clone https://github.com/umbertogallo01/salary-prediction-analysis.git
 notebooks/salary_prediction_analysis.ipynb
 
 3. Eseguire tutte le celle
-
----
-
-## Autore
-
-Progetto sviluppato nell’ambito di un percorso di formazione in Data Science e Machine Learning.
